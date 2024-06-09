@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dentinortu.github.io/sitemap.html
+Sitemap: https://dentinortu.github.io/app/sitemap.html
+Sitemap: https://dentinortu.github.io/assets/sitemap.html
+Sitemap: https://dentinortu.github.io/includes/sitemap.html
+Sitemap: https://dentinortu.github.io/src/sitemap.html
